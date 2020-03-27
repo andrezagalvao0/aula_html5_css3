@@ -1,0 +1,26 @@
+body{
+    background: rgb(224, 195, 195);
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 70px;
+}
+h1{
+    color: red;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+}
+
+/*Margem que quero adicinar a baixo do meu elemento*/
+img{   
+    margin-bottom: 20px;  
+}
