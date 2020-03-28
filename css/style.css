@@ -20,7 +20,21 @@ p{
     font-size: 18px;
 }
 
+footer{
+    margin-bottom: 30px;
+}
+
 /*Margem que quero adicinar a baixo do meu elemento*/
 img{   
     margin-bottom: 20px;  
+}
+
+/*o . é para determinar que o elemento é de uma classe*/
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo{
+    width: 30px;
 }
